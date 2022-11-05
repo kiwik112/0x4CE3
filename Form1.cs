@@ -7,6 +7,7 @@ namespace okenko
 
         //Dictionary<int, Button> buttons = new Dictionary<int, Button>();
         Button[,] buttons = new Button[4, 4];
+        int moves = 0;
         public Form1()
         {
             InitializeComponent();
@@ -74,6 +75,8 @@ namespace okenko
 
         private void Up()
         {
+            moves++;
+            label1.Text = "Moves: 0x" + moves.ToString("X2");
             bool moving = true;
             while (moving)
             {
@@ -114,6 +117,8 @@ namespace okenko
 
         private void Down()
         {
+            moves++;
+            label1.Text = "Moves: 0x" + moves.ToString("X2");
             bool moving = true;
             while (moving)
             {
@@ -154,6 +159,8 @@ namespace okenko
 
         private void mvLeft()
         {
+            moves++;
+            label1.Text = "Moves: 0x" + moves.ToString("X2");
             bool moving = true;
             while (moving)
             {
@@ -194,6 +201,8 @@ namespace okenko
 
         private void mvRight()
         {
+            moves++;
+            label1.Text = "Moves: 0x" + moves.ToString("X2");
             bool moving = true;
             while (moving)
             {

@@ -1,3 +1,8 @@
+D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.exe
+D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.deps.json
+D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.runtimeconfig.json
+D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.dll
+D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.pdb
 D:\VS\okenko\obj\Debug\net6.0-windows\okenko.csproj.AssemblyReference.cache
 D:\VS\okenko\obj\Debug\net6.0-windows\okenko.Form1.resources
 D:\VS\okenko\obj\Debug\net6.0-windows\okenko.csproj.GenerateResource.cache
@@ -5,13 +10,8 @@ D:\VS\okenko\obj\Debug\net6.0-windows\okenko.GeneratedMSBuildEditorConfig.editor
 D:\VS\okenko\obj\Debug\net6.0-windows\okenko.AssemblyInfoInputs.cache
 D:\VS\okenko\obj\Debug\net6.0-windows\okenko.AssemblyInfo.cs
 D:\VS\okenko\obj\Debug\net6.0-windows\okenko.csproj.CoreCompileInputs.cache
-D:\VS\okenko\obj\Debug\net6.0-windows\okenko.genruntimeconfig.cache
-D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.exe
-D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.deps.json
-D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.runtimeconfig.json
-D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.dll
-D:\VS\okenko\bin\Debug\net6.0-windows\0x4CE3.pdb
 D:\VS\okenko\obj\Debug\net6.0-windows\0x4CE3.dll
 D:\VS\okenko\obj\Debug\net6.0-windows\refint\0x4CE3.dll
 D:\VS\okenko\obj\Debug\net6.0-windows\0x4CE3.pdb
+D:\VS\okenko\obj\Debug\net6.0-windows\okenko.genruntimeconfig.cache
 D:\VS\okenko\obj\Debug\net6.0-windows\ref\0x4CE3.dll
